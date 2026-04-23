@@ -2,7 +2,7 @@
 
 > **Status do Projeto:** Em desenvolvimento (Integração com Backend) 🚀
 
-Este projeto faz parte de uma solução robusta de gestão para a **Clínica Médica IMEPAC**. Como responsável pelo **Frontend** e atuando como **Scrum Master** da equipe, meu foco foi unir a estética visual (bagagem de 7 anos em Design) com a funcionalidade técnica necessária para um ambiente hospitalar dinâmico.
+Este projeto faz parte de uma solução robusta de gestão para a **Clínica Médica**. Como responsável pelo **Frontend**, meu foco foi unir a estética visual (bagagem de 7 anos em Design) com a funcionalidade técnica necessária para um ambiente hospitalar dinâmico.
 
 ---
 
@@ -38,10 +38,7 @@ O projeto está organizado para facilitar a manutenção e escalabilidade:
 
 ---
 
-## 🚀 Como visualizar
 
-Você pode conferir a interface rodando em tempo real através do link abaixo:
-🔗 **[INSIRA AQUI O SEU LINK DA VERCEL]**
 
 ---
 
