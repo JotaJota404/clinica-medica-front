@@ -40,15 +40,19 @@ O projeto está organizado para facilitar a manutenção e escalabilidade:
 
 <img width="1359" height="645" alt="Captura de tela 2026-04-22 231644" src="https://github.com/user-attachments/assets/e9aed5ee-4712-49e9-ac5d-5d0a63c24697" />
 
+---
+
 
 <img width="1342" height="560" alt="Captura de tela 2026-04-22 231654" src="https://github.com/user-attachments/assets/0ed0ab63-427e-4343-9a34-69ba82d63f67" />
+
+---
 
 
 <img width="1343" height="466" alt="Captura de tela 2026-04-22 231705" src="https://github.com/user-attachments/assets/aacb708e-f9ba-436a-8d63-c05c5cebefe8" />
 
+---
 
 <img width="1342" height="558" alt="Captura de tela 2026-04-22 231724" src="https://github.com/user-attachments/assets/bc9684e7-466c-483d-8b34-0424dcd6d6c7" />
-
 
 
 ---
